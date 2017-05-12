@@ -1,0 +1,9 @@
+nav, .print{
+    display: none;
+}
+.progress-bar{
+    display: none;
+}
+.procent{
+    display: inline;
+}
